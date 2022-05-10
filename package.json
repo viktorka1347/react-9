@@ -2,7 +2,7 @@
   "name": "react-9",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olegbirykov.github.io/react-9/",
+ 
   "dependencies": {
     "cra-template": "1.1.1",
     "prop-types": "^15.7.2",
